@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://milkee.org"><img src="./assets/milkee-logo.png" width="480" alt="Milkee logo"></a>
+<a href="https://milkee.org"><img src="https://raw.githubusercontent.com/coffeescript-milkee/milkee/main/img/Milkee-logo.png" width="480" alt="Milkee logo"></a>
 
 **A modern build tool for CoffeeScript. Simple, fast, and creamy smooth.**
 
